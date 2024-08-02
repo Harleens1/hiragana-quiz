@@ -1,5 +1,5 @@
 # Hirigana alphabet quiz
-A blog I made with to share my thoughts sometimes. 
+I am currently learning Hirigana, so I made this quiz to help me learn the Hirigana alphabet. 
 
 ![title](src/githubImage.png)
 
